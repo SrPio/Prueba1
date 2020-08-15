@@ -12,6 +12,8 @@ public class PruebaGit {
         System.out.println("Hola_Mundo");
         System.out.println("Primera Modificación");
         System.out.println("Esta es una modificacion desde GitHub"); //By SrPi0
+        
+        System.out.println("Probando Tags de commits");
     }
     
 }
